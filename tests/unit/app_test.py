@@ -1,7 +1,6 @@
 """Unit test file for app.py"""
 from src.app import returnBackwardsString
 import unittest
-
 class TestApp(unittest.TestCase):
     """Unit tests defined for app.py"""
 
